@@ -1,0 +1,14 @@
+for the error module.js:327
+    throw err;
+    ^
+Error: Cannot find module '/root/app.js'
+
+
+just update the npm 
+sudo -i
+npm update -g
+open the project directory->your custom directory fr eg:newtest
+then run the command
+npm app.js
+
+
